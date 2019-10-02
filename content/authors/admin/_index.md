@@ -1,48 +1,46 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: A clinical psychologist at Weill Cornell, interests including psychotherapy outcomes, 
+  trauma, and measurement of psychological symptoms.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Psychology
+    institution: The Pennsylvania State University
+    year: 2015
+  - course: MS in Psychology
+    institution: The Pennsylvania State University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: AB in Psychology
+    institution: Brown University
+    year: 2006
+email: "anm9256@med.cornell.edu"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Psychotherapy outcomes
+- Trauma and PTSD
+- Research methods
+name: Andrew A. McAleavey
 organizations:
-- name: Stanford University
+- name: Weill Cornell Medical College
   url: ""
-role: Professor of Artificial Intelligence
+role: Instructor of Psychology in Psychiatry
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/andrewathan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=fq3HCxEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/andrewmcaleavey
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Andrew Athan McAleavey is an Instructor of Psychology in Psychiatry at Weill Cornell Medical College. He conducts research on the psychological effects of trauma as well as general process and outcome of psychotherapy in large, diverse data sets. He has expertise in cognitive-behavioral therapies, including prolonged exposure therapy. He is currently an Associate Editor of *Psychotherapy Research*.   
