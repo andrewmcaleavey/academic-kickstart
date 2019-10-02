@@ -29,11 +29,6 @@
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-08-05T14:01:50-04:00</lastmod>
     <priority>0</priority>
@@ -46,7 +41,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
+    <lastmod>2019-10-02T16:18:04-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,11 +61,6 @@
     <loc>/tags/</loc>
     <lastmod>2019-08-05T14:01:50-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
   </url>
   
   <url>
@@ -163,35 +153,6 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2019-08-05T14:01:50-04:00</lastmod>
     <priority>0</priority>
@@ -204,7 +165,7 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
+    <lastmod>2019-10-02T16:18:04-04:00</lastmod>
   </url>
   
   <url>
