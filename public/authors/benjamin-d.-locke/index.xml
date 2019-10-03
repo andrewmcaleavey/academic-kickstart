@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin D. Locke | Andrew McAleavey</title>
+    <link>/authors/benjamin-d.-locke/</link>
+      <atom:link href="/authors/benjamin-d.-locke/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin D. Locke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Benjamin D. Locke</title>
+      <link>/authors/benjamin-d.-locke/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of routine psychotherapy: Method matters</title>
+      <link>/publication/mcaleavey-effectiveness-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-effectiveness-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Counseling Center Assessment of Psychological Symptoms Distress Index: A pragmatic exploration of general factors to enhance a multidimensional scale</title>
+      <link>/publication/nordberg-counseling-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nordberg-counseling-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychotherapists’ outcomes with White and racial/ethnic minority clients: First, the good news</title>
+      <link>/publication/hayes-psychotherapists-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-psychotherapists-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Initial Validation of the Counseling Center Assessment of Psychological Symptoms–34</title>
+      <link>/publication/locke-development-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/locke-development-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical validity of the Counseling Center Assessment of Psychological Symptoms-62 (CCAPS-62): Further evaluation and clinical applications</title>
+      <link>/publication/mcaleavey-clinical-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-clinical-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the Counseling Center Assessment of Psychological Symptoms-62 (CCAPS-62)</title>
+      <link>/publication/locke-development-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/locke-development-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

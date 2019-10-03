@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James F. Boswell | Andrew McAleavey</title>
+    <link>/authors/james-f.-boswell/</link>
+      <atom:link href="/authors/james-f.-boswell/index.xml" rel="self" type="application/rss+xml" />
+    <description>James F. Boswell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>James F. Boswell</title>
+      <link>/authors/james-f.-boswell/</link>
+    </image>
+    
+    <item>
+      <title>Development of the Counseling Center Assessment of Psychological Symptoms-62 (CCAPS-62)</title>
+      <link>/publication/locke-development-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/locke-development-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

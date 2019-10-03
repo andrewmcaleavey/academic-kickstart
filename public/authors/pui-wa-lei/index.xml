@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pui-Wa Lei | Andrew McAleavey</title>
+    <link>/authors/pui-wa-lei/</link>
+      <atom:link href="/authors/pui-wa-lei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pui-Wa Lei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Sun, 01 Jul 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Pui-Wa Lei</title>
+      <link>/authors/pui-wa-lei/</link>
+    </image>
+    
+    <item>
+      <title>Development and Initial Validation of the Counseling Center Assessment of Psychological Symptoms–34</title>
+      <link>/publication/locke-development-2012/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/locke-development-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of the Counseling Center Assessment of Psychological Symptoms-62 (CCAPS-62)</title>
+      <link>/publication/locke-development-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/locke-development-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

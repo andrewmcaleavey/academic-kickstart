@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychotherapy | Andrew McAleavey</title>
+    <link>/tags/psychotherapy/</link>
+      <atom:link href="/tags/psychotherapy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Psychotherapy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Psychotherapy</title>
+      <link>/tags/psychotherapy/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of routine psychotherapy: Method matters</title>
+      <link>/publication/mcaleavey-effectiveness-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-effectiveness-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Errors in treatment outcome monitoring: Implications for real-world psychotherapy</title>
+      <link>/publication/mcaleavey-errors-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-errors-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

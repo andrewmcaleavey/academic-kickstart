@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心理治療效果 | Andrew McAleavey</title>
+    <link>/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82%E6%95%88%E6%9E%9C/</link>
+      <atom:link href="/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82%E6%95%88%E6%9E%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>心理治療效果</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>心理治療效果</title>
+      <link>/tags/%E5%BF%83%E7%90%86%E6%B2%BB%E7%99%82%E6%95%88%E6%9E%9C/</link>
+    </image>
+    
+    <item>
+      <title>Effectiveness of routine psychotherapy: Method matters</title>
+      <link>/publication/mcaleavey-effectiveness-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-effectiveness-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

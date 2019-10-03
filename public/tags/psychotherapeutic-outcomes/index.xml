@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychotherapeutic Outcomes | Andrew McAleavey</title>
+    <link>/tags/psychotherapeutic-outcomes/</link>
+      <atom:link href="/tags/psychotherapeutic-outcomes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Psychotherapeutic Outcomes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Psychotherapeutic Outcomes</title>
+      <link>/tags/psychotherapeutic-outcomes/</link>
+    </image>
+    
+    <item>
+      <title>Psychotherapists’ outcomes with White and racial/ethnic minority clients: First, the good news</title>
+      <link>/publication/hayes-psychotherapists-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/hayes-psychotherapists-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Errors in treatment outcome monitoring: Implications for real-world psychotherapy</title>
+      <link>/publication/mcaleavey-errors-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/mcaleavey-errors-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

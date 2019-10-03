@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bifactor analysis | Andrew McAleavey</title>
+    <link>/tags/bifactor-analysis/</link>
+      <atom:link href="/tags/bifactor-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>bifactor analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>bifactor analysis</title>
+      <link>/tags/bifactor-analysis/</link>
+    </image>
+    
+    <item>
+      <title>The Counseling Center Assessment of Psychological Symptoms Distress Index: A pragmatic exploration of general factors to enhance a multidimensional scale</title>
+      <link>/publication/nordberg-counseling-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nordberg-counseling-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
