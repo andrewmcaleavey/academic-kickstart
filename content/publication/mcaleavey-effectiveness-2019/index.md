@@ -1,0 +1,14 @@
+---
+title: "Effectiveness of routine psychotherapy: Method matters"
+date: 2019-03-01
+publishDate: 2019-10-03T17:29:41.218316Z
+authors: ["Andrew A. McAleavey", "Soo Jeong Youn", "Henry Xiao", "Louis G. Castonguay", "Jeffrey A. Hayes", "Benjamin D. Locke"]
+publication_types: ["2"]
+abstract: "Objective: Though many studies have shown that psychotherapy can be effective, psychotherapy available in routine practice may not be adequate. Several methods have been proposed to evaluate routine psychological treatments. The aim of this paper is to demonstrate the combined utility of complementary methods, change-based benchmarking, and end-state normative comparisons, across a range of self-reported psychological symptoms. Method: Benchmarks derived from randomized controlled trials (RCTs) and normative comparisons were used to evaluate the effectiveness of psychotherapy in a large (N = 9895) sample of clients in university counseling centers (UCCs). Results: Overall, routine psychotherapy was associated with significant improvement across all symptoms examined. For clients whose initial severity was similar to RCT participants, the observed pre–post effect sizes were equivalent to those in RCTs. However, treatment tended to lead to normative end-state functioning only for those clients who were moderately, but not severely, distressed at the start of psychotherapy. Conclusions: This suggests that although psychotherapy is associated with an effective magnitude of symptom improvement in routine practice, additional services for highly distressed individuals may be necessary. The methods described here comprise a comprehensive analysis of the quality of routine care, and we recommend using both methods in concert.Clinical or methodological significance of this article: This study examines the effectiveness of routine psychotherapy provided in a large network of counseling centers. By comparing multiple established methods to define outcomes in this sample we provide a detailed understanding of typical outcomes. The findings show that, across several different problem areas, routine psychotherapy provided substantial benefit, particularly to clients in the most distress. However, there is room to improve, especially by increasing the number of clients who return to normal functioning by the end of treatment. Using distinct methods provides complementary answers to the question: How effective is routine psychotherapy?"
+featured: false
+publication: "*Psychotherapy Research*"
+tags: ["aconselhamento", "avaliação comparativa", "benchmarking", "comparações normativas", "counseling", "efetividade psicoterapêutica", "normative comparisons", "psicoterapia", "psychotherapy", "psychotherapy effectiveness", "基準", "常態比較", "心理治療", "心理治療效果", "諮商"]
+url_pdf: "https://doi.org/10.1080/10503307.2017.1395921"
+doi: "10.1080/10503307.2017.1395921"
+---
+
