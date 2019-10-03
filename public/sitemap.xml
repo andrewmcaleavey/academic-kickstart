@@ -29,41 +29,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
@@ -71,6 +36,12 @@
   
   <url>
     <loc>/authors/andrew-a.-mcaleavey/</loc>
+    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -117,7 +88,19 @@
   </url>
   
   <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/soo-jeong-youn/</loc>
+    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -412,28 +395,6 @@
     <loc>/tags/work-load/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
   </url>
   
   <url>
