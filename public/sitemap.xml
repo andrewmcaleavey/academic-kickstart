@@ -3,29 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
-    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
+    <lastmod>2019-10-03T14:56:03-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/talk/example/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
+    <lastmod>2019-10-03T14:56:03-04:00</lastmod>
   </url>
   
   <url>
@@ -77,12 +62,6 @@
   
   <url>
     <loc>/authors/louis-g.-castonguay/</loc>
-    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/psychotherapy/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -143,6 +122,12 @@
   
   <url>
     <loc>/tags/psicoterapia/</loc>
+    <lastmod>2019-10-03T13:30:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/psychotherapy/</loc>
     <lastmod>2019-10-03T13:30:25-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -605,11 +590,6 @@
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-10-02T16:18:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-08-05T14:01:50-04:00</lastmod>
   </url>
   
   <url>
