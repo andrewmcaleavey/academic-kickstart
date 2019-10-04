@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Counseling</title>
-      <link>/tags/counseling/</link>
+      <title>Psychotherapy</title>
+      <link>/tags/psychotherapy/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/counseling/</guid>
+      <guid>/tags/psychotherapy/</guid>
       <description></description>
     </item>
     
@@ -53,6 +53,14 @@
     </item>
     
     <item>
+      <title>counseling</title>
+      <link>/tags/counseling/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/counseling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>efetividade psicoterapêutica</title>
       <link>/tags/efetividade-psicoterapeutica/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
@@ -73,14 +81,6 @@
       <link>/tags/psicoterapia/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>/tags/psicoterapia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>psychotherapy</title>
-      <link>/tags/psychotherapy/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/psychotherapy/</guid>
       <description></description>
     </item>
     
