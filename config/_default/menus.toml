@@ -8,10 +8,10 @@
 #  url = "#hero"
 #  weight = 10
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 #[[main]]
 #  name = "Projects"
@@ -31,6 +31,11 @@
 [[main]]
   name = "Contact"
   url = "#contact"
+  weight = 60
+  
+[[main]]
+  name = "Clinical Experience"
+  url = "#clinical"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
